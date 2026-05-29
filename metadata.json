@@ -1,0 +1,6 @@
+{
+  "name": "Ghibli Avatar Studio",
+  "description": "Crea il tuo avatar in stile Studio Ghibli con personalizzazione profonda dei tratti somatici, controlli fisici, sintesi procedurale del vento e biografie fantastiche alimentate da Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
